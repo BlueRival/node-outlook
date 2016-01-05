@@ -85,12 +85,3 @@ You can create an `OutlookServices.Client` object like so:
       authHelper.getAccessTokenFn('https://outlook.office365.com/', session)); 
 
 Where `authHelper.getAccessTokenFn` is a callback method you implement to provide the needed OAuth2 access token.
-
-## Copyright ##
-
-Copyright (c) Microsoft. All rights reserved.
-
-----------
-Connect with me on Twitter [@JasonJohMSFT](https://twitter.com/JasonJohMSFT)
-
-Follow the [Exchange Dev Blog](http://blogs.msdn.com/b/exchangedev/)
